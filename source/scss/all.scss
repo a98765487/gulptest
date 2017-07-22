@@ -1,0 +1,10 @@
+$primary-color:blue;
+body
+{
+    color:$primary-color;
+}
+div{
+    box-shadow: 1px;
+    transform:  rotate(120deg);
+    filter:blur(3px); 
+}
